@@ -1,2 +1,7 @@
 # ValeursDesRacinesDunPolynome
-Projet Scilab réalisé sur en avril 2021.  Lire README pour plus d'informations.
+
+Contexte:
+Ce projet a été réalisé dans le cadre du deuxième semestre de ma deuxième année d'études en double licence économie et MIASHS.
+
+Description:
+C'est projet Scilab réalisé en équipe, portant sur l'approche des valeurs des racines d'un polynome en utilisant différentes méthodes comparées ensuite entre elles dans le but de déterminner quelle est la meilleure.
